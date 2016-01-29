@@ -1,0 +1,35 @@
+{
+    "Images": [
+
+        {
+            "url": "http://www.gettyimages.ca/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg"
+        }, {
+            "url": "http://webneel.com/daily/sites/default/files/images/daily/01-2014/15-republic-day.jpg"
+        }, {
+            "url": "http://nikonrumors.com/wp-content/uploads/2014/06/Nikon-D810-with-14-24mm-f2.8-lens.jpg"
+        }, {
+            "url": "https://hbr.org/resources/images/article_assets/2015/02/FEB15_05_hbr_nguyen_img_074.jpg"
+        }, {
+            "url": "http://s.hswstatic.com/gif/landscape-photography-1.jpg"
+        }
+    ],
+
+    "items": [{
+        "head": " item1",
+        "icon": "https://cdn1.iconfinder.com/data/icons/new_twitter_icon/491/bird_twitter_new_single.png",
+        "des": "item1"
+    }, {
+        "head": "item2 ",
+        "icon": "http://iconsdepot.com/images/2009/03/google-reader-icons.png",
+        "des": "item2"
+    }, {
+        "head": " item3",
+        "icon": "http://www.meridianecommerce.com/images/icons/Computer%20Icon.png",
+        "des": "item3"
+    }],
+    "logo": "http://2.bp.blogspot.com/-PB6xrMEeJGE/VmjcfQLa4UI/AAAAAAAAGBg/FkvC2WNKg_M/s1600/innominds.png",
+    "info": "http://www.safekiting.be/Img/info.png ",
+    "bdyimg":"http://1.bp.blogspot.com/-RfH9m2GxHLY/Uh9VjINIECI/AAAAAAAAEKo/MW4ZhL3hhd8/s1600/Background-Graphics-For-Websites.jpg",
+    "panelimg":"http://www.seemadanasricabs.com/background-images-for-websites-3.jpg",
+    "modalimg":"http://thumbs.dreamstime.com/z/bokeh-abstract-backgrounds-green-light-33436340.jpg"
+}

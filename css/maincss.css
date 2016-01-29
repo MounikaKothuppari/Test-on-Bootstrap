@@ -1,0 +1,116 @@
+body,
+.dashContent .panel,
+#myModal .modal-content,
+#myModalDetails .modal-content,
+.items {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+}
+
+.items {
+    border-left: 15px solid;
+    border-color: rgba(0, 0, 0, 0.4);
+    margin: 10px;
+}
+
+.items .panel-heading {
+    background-color: rgba(0, 191, 0, 0.1);
+}
+
+.items .panel-body div:first-child {
+    border-right: 1px solid black;
+}
+
+.dashContent {
+    margin: 10px;
+}
+
+.dashContent input[type=text] {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+}
+
+.dashContent .panel-heading,
+.dashContent .panel-footer {
+    background-color: rgba(130, 232, 42, 0.3);
+}
+
+.itemTab {
+    margin-top: 10px;
+    border-right: 1px solid #c3c3a2;
+}
+
+.carousel-inner > .item > img {
+    height: 400px;
+    width: 100%;
+}
+
+table {
+    margin-top: 10px;
+}
+
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+    text-align: center;
+}
+
+#carousel-example-generic {
+    margin: 10px;
+}
+
+.btn-link {
+    color: black;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover {
+    border: 3px solid black;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background-color: rgba(130, 232, 42, 0.3);
+}
+
+.nav-tabs>li>a {
+    font-weight: bold;
+}
+
+.nav-tabs>li>a:hover {
+    background-color: rgba(209, 53, 42, 0.3);
+}
+
+#myModal .modal-header,
+#myModal .modal-footer,
+#myModalDetails .modal-header,
+#myModalDetails .modal-footer {
+    background: none;
+    border-color: #c3c3a2;
+}
+
+table,
+tr,
+th {
+    color: black;
+}
+
+td,
+.last,
+.nav-tabs>li>a,
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover,
+.dashContent .panel-heading,
+.dashContent .panel-footer {
+    color: white;
+}
